@@ -1,0 +1,4 @@
+# Deliberately NO `previews` block: this Worker does not want Worker Previews.
+name = "previews-repro-demo"
+main = "worker.js"
+compatibility_date = "2026-09-30"
