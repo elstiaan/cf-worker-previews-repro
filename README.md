@@ -37,3 +37,5 @@ The Worker sits in a subdirectory on purpose, as in a monorepo.
 after the branch, with `root_directory: "/"` and `deploy_command:
 "npx wrangler preview"`. It fails with `Your Wrangler configuration is missing
 a \`previews\` block`.
+
+Test branch push: 2026-09-30T18:51:47Z
